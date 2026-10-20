@@ -1,21 +1,26 @@
-<!-- ==================== PROFILE BANNER ==================== --><div align="center"><img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=blur&color=0:020617,50:075985,100:06B6D4&height=260&section=header&text=Sai%20Pawar&fontFamily=Courier%20New&fontSize=75&fontColor=FFFFFF&animation=fadeIn"
-alt="Sai Pawar - Embedded Systems and Robotics"
-/>
+<div align="center">
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=MECHATRONICS+ENGINEERING+STUDENT;EMBEDDED+SYSTEMS+%26+MICROCONTROLLERS;C+%7C+C%2B%2B+%7C+DSA;STM32+%7C+ESP32+%7C+ARDUINO;BUILDING+INTELLIGENT+ROBOTIC+SYSTEMS" alt="Animated Introduction"/>
-</a><br/><br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:020617,50:075985,100:06B6D4&height=260&section=header&text=Sai%20Pawar&fontFamily=Courier%20New&fontSize=75&fontColor=FFFFFF&animation=fadeIn" alt="Sai Pawar - Embedded Systems and Robotics"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=MECHATRONICS+ENGINEERING+STUDENT;EMBEDDED+SYSTEMS+%26+MICROCONTROLLERS;C+%7C+C%2B%2B+%7C+DSA;STM32+%7C+ESP32+%7C+ARDUINO" alt="Animated Introduction"/>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/DSA-7C3AED?style=for-the-badge" alt="DSA"/>
 <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
-<img src="https://img.shields.io/badge/EMBEDDED%20SYSTEMS-0F766E?style=for-the-badge&logo=arduino&logoColor=white" alt="Embedded Systems"/><br/><br/>
 
-Turning Hardware Into Intelligent Systems.
+<br/><br/>
+
+*Turning Hardware Into Intelligent Systems.*
+
+</div>
+
+---.
 
 </div>---
 
