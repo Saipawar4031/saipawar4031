@@ -67,13 +67,6 @@ I'm **Sai D Pawar**, a Mechatronics Engineering student at **MMIT, Pune**, passi
 
 ## 🎓 B.E. Academic Projects
 
-### 🚁 Autonomous Payload Delivery Drone
-`ArduPilot` `SpeedyBee F7` `Mission Planner` `Webots`
-
-- Configured a drone platform for autonomous payload delivery
-- Simulated flight behavior and mission profiles in Webots
-- Worked in a five-member team to complete the project and documentation
-
 ### 🤖 ESP32 Landmine Detection Robot
 `ESP32` `Embedded C` `Metal Detection Sensor` `Motor Control`
 
